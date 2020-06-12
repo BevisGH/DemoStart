@@ -20,15 +20,15 @@
         <form class="form-horizontal" role="form" style="margin-top: 50%">
           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<span style="font-size: 18px;">Welcome Sign In</span><br><br>
           <div class="form-group">
-            <label for="firstname" class="col-sm-2 control-label">名字</label>
+            <label for="username" class="col-sm-2 control-label">用户名</label>
             <div class="col-sm-10">
-              <input type="text" class="form-control" id="firstname" placeholder="请输入名字">
+              <input type="text" class="form-control" id="username" placeholder="请输入用户名">
             </div>
           </div>
           <div class="form-group">
-            <label for="lastname" class="col-sm-2 control-label">姓</label>
+            <label for="password" class="col-sm-2 control-label">密码</label>
             <div class="col-sm-10">
-              <input type="text" class="form-control" id="lastname" placeholder="请输入姓">
+              <input type="password" class="form-control" id="password" placeholder="请输入密码">
             </div>
           </div>
           <div class="form-group">
